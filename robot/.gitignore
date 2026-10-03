@@ -1,0 +1,26 @@
+# arquivos temporarios gerado pelo macOS
+.DS_Store
+
+# config do ambiente
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
