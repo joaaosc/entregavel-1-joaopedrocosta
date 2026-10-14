@@ -19,7 +19,7 @@ uv pip install -r requirements.txt
 Observação: pensado apenas para Linux ou macOS e testado somente no macOS. É preciso um ambiente com suporte a janelas gráficas.
 
 **Comando de execução**
-A partir da pasta principal (`visualizador/`), execute com:
+A partir da pasta `entregavel-2/`, execute com:
 ```
 python src/main.py
 ```
