@@ -31,6 +31,6 @@ python src/main.py
 **Exemplo de entrada e saída:**
 Obs.: você pode usar ```python -m tests.testa_misssao``` para verificar funcionamento correto do programa.
 
-[exemplo.png](entregavel_1/exemplo.png)
+![Exemplo de entrada e saída](exemplo.png)
 
 
