@@ -15,7 +15,7 @@ PASTA_IMAGENS = RAIZ / "imagens"
 PASTA_RESULTADOS = RAIZ / "resultados"
 
 NOME_JANELA = "Visualizador de anotacoes"
-LARGURA_MAX_TELA = 1280
+LARGURA_MAX_TELA = 960
 ALTURA_MAX_TELA = 720
 TECLA_AVANCAR = ord(" ")
 TECLA_SAIR = ord("q")
