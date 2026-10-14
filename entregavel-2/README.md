@@ -47,7 +47,8 @@ A legenda com o nome da imagem e as cores de cada classe é desenhada apenas na 
 Obs.: você pode usar ```python -m tests.testa_anotacoes``` para verificar o funcionamento das classes e da leitura do CSV.
 
 **Exemplo de execução:**
+Os recortes do terminal e da janela ficam em `evidencias/terminal.png` e `evidencias/visualizador.png`.
 
-![Execução no terminal](evidencias/terminal.png)
+![Execução em tela cheia](evidencias/execucao.png)
 
-![Janela do visualizador](evidencias/visualizador.png)
+![Navegação pelas dez imagens](evidencias/execucao.gif)
